@@ -1,0 +1,21 @@
+{
+  "caption": null,
+  "header": false,
+  "name": "x_g_nci_cicd_dev_o_cicd_dev_ops_table",
+  "roles": null,
+  "sys_class_name": "sys_ui_section",
+  "sys_created_by": "devops",
+  "sys_created_on": "2020-09-01 14:40:49",
+  "sys_id": "f95f8fa01b07d01061ef31d7dc4bcbc5",
+  "sys_mod_count": 0,
+  "sys_name": "x_g_nci_cicd_dev_o_cicd_dev_ops_table",
+  "sys_package": "60c2a2971b4cd010fe45ed39bc4bcb2a",
+  "sys_policy": null,
+  "sys_scope": "60c2a2971b4cd010fe45ed39bc4bcb2a",
+  "sys_update_name": "sys_ui_section_f95f8fa01b07d01061ef31d7dc4bcbc5",
+  "sys_updated_by": "devops",
+  "sys_updated_on": "2020-09-01 14:40:49",
+  "title": true,
+  "view": "Default view",
+  "view_name": null
+}
